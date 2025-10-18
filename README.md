@@ -1,5 +1,5 @@
 # CalculatorApp
-A simple calculator for everyday use in pink. It does, addition, subtraction, multiplication and division.
+A simple calculator for everyday use in pink. It does addition, subtraction, multiplication and division.
 Calculator App
 # Overview
 This is a simple web-based Calculator App built as a JavaScript mini-project using HTML, CSS, and JavaScript. The app performs basic arithmetic operations: addition, subtraction, multiplication, and division.
